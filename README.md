@@ -1,34 +1,31 @@
 <div id="header" align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="400"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="600"/>
 </div>
 <div id="viewprof" align="center">
   <img src="https://img.shields.io/github/followers/Co1dren?style=social" alt=""/>
 </div>
 
 <div id="viewprof" align="center">
-<a href="https://www.twitch.tv/battlestategames/videos">
+<a href="https://www.twitch.tv/zulkila">
   <img src="https://img.shields.io/twitch/status/battlestategames?style=social" alt=""/>
 </div>
 
 <div id="viewprof" align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="https://www.youtube.com/c/Zulkila/featured">
   <img src="https://img.shields.io/youtube/views/dQw4w9WgXcQ?style=social" alt=""/>
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://vk.com/thanksfortheinputjeff" target="_blank">Igor</a> 
+<h1 align="center">Hi there, I'm <a href="www.youtube.com/watch?v=rvYZRskNV3w&t" target="_blank">Igor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Russia 	:beer:</h3>
 
 </div>
 <div align="center">
-  <img src="https://media1.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47pj9le0eqiac25796ss1rdupkzh04lyg30u5ax0g5&rid=giphy.gif&ct=g" width="500" height="300"/>
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="500" height="400"/>
 </div>
 
 ### 	:speech_balloon: About Me:
-I am a Full Stack Developer <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="30"> from Moscow.
-- :computer: I’m working as a Software Engineer and contributing to frontend and backend for building web applications
-- :abacus:Exploring Technical Content Writing.
-- :guitar: In my free time, I study, play guitar and relax playing games
+I am a Full Stack Developer from Moscow.
+- :computer: I work in the field of game development in C# - :computer: Exploring Technical Content Writing. - :computer: In the free time I draw pixel art
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -44,8 +41,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/zOvBKUUEERdN
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 
   ### 	:framed_picture: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Co1dren&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Co1dren&theme=solarized_dark)
-![Jokes Card](https://readme-jokes.vercel.app/api)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32BB67&width=435&lines=+Thanks+for+watching)](https://git.io/typing-svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hjonkas&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hjonkas&theme=radical)
+[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hjonkas&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hjonkas&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hjonkas&theme=radical)
