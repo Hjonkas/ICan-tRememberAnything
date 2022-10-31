@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media3.giphy.com/media/3oEjHERaTIdeuFQrXq/giphy.gif?cid=ecf05e471r6dgsh6x3ucl3c9tf662xjamst9iow3ngp2tva7&rid=giphy.gif&ct=g](https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)" width="400"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="400"/>
 </div>
 <div id="viewprof" align="center">
   <img src="https://img.shields.io/github/followers/Co1dren?style=social" alt=""/>
