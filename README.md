@@ -14,14 +14,8 @@
   <a href="https://www.youtube.com/c/Zulkila/featured">
   <img src="https://img.shields.io/youtube/views/dQw4w9WgXcQ?style=social" alt=""/>
 </div>
-
-<h1 align="center">Hi there, I'm <a href="www.youtube.com/watch?v=rvYZRskNV3w&t" target="_blank">Igor</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
 </div>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="500" height="400"/>
-</div>
+
 
 ### 	:speech_balloon: About Me:
 I am a Full Stack Developer from Moscow.
@@ -40,8 +34,12 @@ I am a Full Stack Developer from Moscow.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="500" height="400"/>
+</div>  
+  
   ### 	:framed_picture: My Stats :
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hjonkas&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hjonkas&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hjonkas&theme=radical)
 [](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hjonkas&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hjonkas&theme=radical)
