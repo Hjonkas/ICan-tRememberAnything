@@ -2,7 +2,7 @@
   <img src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="600"/>
 </div>
 <div id="viewprof" align="center">
-  <img src="https://img.shields.io/github/followers/Co1dren?style=social" alt=""/>
+  <img src="https://img.shields.io/github/followers/Hjonkas?style=social" alt=""/>
 </div>
 
 <div id="viewprof" align="center">
